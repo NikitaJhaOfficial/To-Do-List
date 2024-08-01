@@ -34,7 +34,7 @@ To-Do-List is a front-end web application built with React, HTML, CSS, and JavaS
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/to-do-list.git
+   git clone https://github.com/nikiurjew/to-do-list.git
 2. Navigate to the project directory:
 cd to-do-list
 
